@@ -1,0 +1,8 @@
+extra_credit
+object 1: mu_x = 0.487630, mu_y = -0.232279, mu_z = 1.388624
+object 2: mu_x = 0.864993, mu_y = -0.194680, mu_z = 2.745325
+object 3: mu_x = 0.076532, mu_y = 0.331478, mu_z = 3.752931
+object 4: mu_x = -0.542094, mu_y = -0.424440, mu_z = 1.732951
+
+object 3 is farthest from the camera with distance 3.768319
+object 3 is highest above the floor with height 0.331478
